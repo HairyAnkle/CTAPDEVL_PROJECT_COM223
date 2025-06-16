@@ -67,7 +67,7 @@ An Android-based mobile application designed to **detect and prevent ARP and DNS
 
 - **Frontend**: Kotlin, Android SDK, XML, Material Design 3
 - **Architecture**: MVVM with LiveData & ViewModel
-- **Backend**: Firebase Authentication, Firebase Firestore (for cloud sync)
+- **Backend**: Firebase Authentication
 - **Networking**: Java Socket API, ARP/DNS table monitoring
 - **Tools**: Android Studio, Gradle (Kotlin DSL), GitHub
 

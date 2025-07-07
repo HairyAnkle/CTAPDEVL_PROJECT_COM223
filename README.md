@@ -107,7 +107,7 @@ An Android-based mobile application designed to **detect and prevent ARP and DNS
 
 ## 📞 Support
 
-If you encounter issues, open an [Issue](https://github.com/yourusername/yourrepo/issues) or contact the development team directly.
+If you encounter issues, open an [Issue](https://github.com/HairyAnkle/issues) or contact the development team directly.
 
 ---
 
